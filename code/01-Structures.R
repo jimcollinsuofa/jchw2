@@ -26,7 +26,7 @@ factorial(round(2.0015) + 1)
 30 / 3
 # ---------
 
-# R objects
+# R objects ---
 
 foo <- 42
 
